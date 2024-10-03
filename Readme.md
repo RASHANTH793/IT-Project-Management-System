@@ -19,7 +19,7 @@
 
 The **IT Project Management System** is designed to manage different types of IT projects, including internal, client, and research projects. It helps organizations manage project deadlines, budgets, and team sizes.
 
-This project uses Object-Oriented Programming principles such as **inheritance**, **polymorphism**, **abstraction**, and **encapsulation**.
+This project  uses Object-Oriented Programming principles such as **inheritance**, **polymorphism**, **abstraction**, and **encapsulation**.
 
 ## Features
 
