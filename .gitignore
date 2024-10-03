@@ -1,0 +1,25 @@
+# Java files
+*.class
+
+# Log files
+*.log
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven build files
+target/
+
+# MacOS
+.DS_Store
+
+# Other
+*.swp
